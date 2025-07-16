@@ -1,7 +1,7 @@
 # 🧩 ns-ui
 
 A reusable, modular component library built with **React** and **Storybook**.  
-Designed for collaboration between Nick & Som, `ns-ui` aims to simplify UI development with consistent, customizable components.
+Aims to simplify UI development with consistent, customizable components.
 
 ## 📦 Installation
 
