@@ -54,6 +54,6 @@ Feel free to use, extend, and contribute!
 
 ## ✨ Contributors
 
-Som Ramnani
-Nick (GitHub link TBD)
+- Som Ramnani
+- Nick 
 💡 Feedback
