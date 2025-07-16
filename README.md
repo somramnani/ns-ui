@@ -53,7 +53,6 @@ ISC © Nick & Som
 Feel free to use, extend, and contribute!
 
 ## ✨ Contributors
-
 - Som Ramnani
 - Nick 
 💡 Feedback
